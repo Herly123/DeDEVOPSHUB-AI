@@ -1,0 +1,6 @@
+{
+  "name": "Krono Atelier — Galería de Pantallas y Activos Visuales",
+  "description": "Plataforma interactiva de pantallas editoriales, catálogo visual arquitectónico e inspector de enlaces directos a imágenes HTML.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
